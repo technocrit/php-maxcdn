@@ -14,7 +14,7 @@ class MaxCDN {
 
 	public $secret;
 	
-	public $MaxCDNrws_url = 'https://rws.maxcdn.com';
+	public $MaxCDNrws_url = 'https://api.stackpath.com/v1';
 	
     private $consumer;
 	
